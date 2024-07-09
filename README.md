@@ -1,1 +1,2 @@
-# Bike-Sales-Dashboard
+# Bike Sales Dashboard
+## Project Overiew
