@@ -26,6 +26,9 @@ To get started with this project:
 3. Explore the data sheets and visualizations.
 4. Modify and customize as per your requirements.
 
+## Dashboard Preview
+
+
 ## Steps Involved
 1. Data Cleaning: Ensure the dataset is free from inconsistencies and missing values.
 2. Exploratory Data Analysis (EDA): Gain insights into the data through summary statistics and visualizations using Excel tools.
