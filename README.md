@@ -26,9 +26,6 @@ To get started with this project:
 3. Explore the data sheets and visualizations.
 4. Modify and customize as per your requirements.
 
-## Dashboard Preview
-
-
 ## Steps Involved
 1. Data Cleaning: Ensure the dataset is free from inconsistencies and missing values.
 2. Exploratory Data Analysis (EDA): Gain insights into the data through summary statistics and visualizations using Excel tools.
@@ -38,6 +35,9 @@ To get started with this project:
 ## Future Enhancements
 - Integration with data analytics tools for more advanced visualizations.
 - Adding filters and interactivity to the dashboard.
+
+## Dashboard Preview
+![dashboard](https://github.com/rajanmanickam23/Bakehouse-Manager/assets/173341526/5e05172e-94ad-4ef0-ace5-692b5effac35)
 
 ## Contributors
 - Rajan Manickam (@rajanmanickam23)
