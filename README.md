@@ -37,7 +37,7 @@ To get started with this project:
 - Adding filters and interactivity to the dashboard.
 
 ## Dashboard Preview
-![dashboard](https://github.com/rajanmanickam23/Bakehouse-Manager/assets/173341526/5e05172e-94ad-4ef0-ace5-692b5effac35)
+![dashboard](dashboard.jpg)
 
 ## Contributors
 - Rajan Manickam (@rajanmanickam23)
